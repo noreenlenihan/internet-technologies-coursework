@@ -1,0 +1,408 @@
+@import url("carbontype/stylesheet.css");
+@import url("webfonts/carbontype2/stylesheet.css");
+
+
+.header {
+	font-family: carbontype;
+	font-size: 48px;
+	color: #333;
+	width: 995px;
+	height: 60px;
+	padding: 100px 10px 10px 30px;
+	margin-bottom: 50px;
+	margin-left: 35px;
+	margin-top: 500px;
+	display: inline;
+}
+.headliner {
+	font-family: carbontype;
+	font-size: 64px;
+	text-align: center;
+	color: #333;
+	background: #FFF;
+	border-style: groove;
+	width: auto;
+	height: auto;
+	padding: 20px;
+	margin-bottom: 30px;
+}
+
+.wrapper {
+	margin: 70px;
+	height: auto;
+	width: auto;
+}
+
+.subheading_1 {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: xx-large;
+	color: #F4A6E7;
+	height: auto;
+	width: auto;
+	display: block;
+	padding: 50px;
+	float: left;
+	margin-right: 90px;
+	margin-left: 280px;
+	
+}
+.subheading1_txt {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 24px;
+	color: #333;
+	background: #FFF;
+	width: 600px;
+	margin: 50px 50px 50px 320px;
+	float: left;
+	
+}
+
+#subheading1_txt_special {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 24px;
+	color: #333;
+	background: #FFF;
+	width: 600px;
+	margin: 50px 50px 50px 50px;
+	float: left;
+	
+}
+
+
+#caption {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 24px;
+	display: inline;
+	overflow: auto;
+	margin: 50px 2px 50px 5px;
+	padding-left: 40px;
+	width: 600px;
+	background: url(images/fzm-seamless.notebook.texture-18.jpg) repeat-y;
+	height: 500px;
+	float: none;
+}
+#subheading_1special {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: xx-large;
+	color: #F4A6E7;
+	display: block;
+	height: auto;
+	width: 500px;
+	padding: 50px;
+	float: left;
+}
+
+
+.adbarindex {
+	float: left;
+	text-decoration: none;
+	padding: 20px;
+	margin: 60px;
+	height: 180px;
+}
+#footer_text {
+	text-align: center;
+	float: left;
+}
+
+
+.adbarindex_hmpg {
+	float: left;
+	text-decoration: none;
+	padding: 10px;
+	width: auto;
+	margin: 0px;
+	height: 150px;
+	display: inline;
+	
+
+}
+
+
+.navbar {
+	width: 200px;
+	height: auto;
+	display: block;
+	float: left;
+	padding: 20px;
+	margin-right: 40px;
+	background: url(images/fzm-seamless.notebook.texture-01.jpg);
+	margin-top: 30px;
+}
+.mainarea {
+	width: 700px;
+	display: inline-block;
+	height: auto;
+	float: left;
+	margin: 20px;
+	background: url(images/fzm-seamless.notebook.texture-15.png);
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+}
+.maintext {
+	margin: 40px 80px 80px 100px;
+	font-family: Bitter, Georgia, Times, serif;
+	color: #333;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+.maindesc {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: medium;
+	color: #999;
+}
+.navbars {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 18px;
+	color: #E888DE;
+	padding: 20px;
+	display: list-item;
+	background: url(none);
+}
+
+
+.adbar {
+	height: auto;
+	width: 180px;
+	float: left;
+	margin: 20px;
+	padding: 0px;
+}
+#bookfront {
+	background: url(images/library_books.jpg);
+	height: 150px;
+	width: 900px;
+	padding: 20px;
+	margin: 20px 20px 20px 100px;
+}
+
+
+.footer {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 18px;
+	width: 760px;
+	background: #FFF;
+	padding: 10px;
+	float: left;
+	text-align: center;
+	height: 280px;
+	margin-left: 300px;
+}
+
+
+#translater {
+	margin-right: 20px;
+	margin-top: 150px;
+}
+
+
+#login_heading {
+	font-family: "carbontype2";
+	font-size: 70px;
+	color: #E888DE;
+	margin: 100px;
+	height: 100px;
+	width: 400px;
+}
+.field {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 24px;
+	color: #EAB8EB;
+}
+#register_now {
+	font-family: Bitter, Georgia, Times, serif;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin: 30px 0px 0px;
+}
+
+.form {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.regform {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 18px;
+	width: 600px;
+	float: left;
+	height: 400px;
+	margin-top: 50px;
+	padding-left: 40px;
+	border-style: double;
+	border-color: #FFF;
+}
+
+.edit_adform {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 18px;
+	width: 300px;
+	height: 400px;
+	padding: 40px;
+	margin-top: 40px;
+	margin-left: 480px;
+	border-style: double;
+	border-color: #333;
+	
+
+}
+#regnow_msg a {
+	font-family: "carbontype2";
+	color: #0099FF;
+	font-size: 36px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: carbontype;
+	color: #096;
+	text-decoration: none;
+}
+
+a, a:visited {
+	color: #E888DE;
+	text-decoration: none;
+}
+.mainarea_search {
+	float: left;
+	margin: 20px;
+}
+.textdisabled {
+	background: #FFF;
+	font-style: italic;
+	color: #00F;
+}
+.book_search_res {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #900;
+	background: #9FF;
+}
+#contactusform {
+	text-align: center;
+	font-family: Bitter, Georgia, Times, serif;
+	padding-top: 50px;
+	border-style: none;
+}
+#formarea {
+	border-style: solid;
+	margin: 50px 100px;
+	border-color: #FFFFFF;
+	padding: 20px; 
+	background: url(images/env2.jpg) no-repeat;
+	float: left;
+}
+#bookimg {
+	float: right;
+	margin-right: 100px;
+	padding: 20px;
+}
+#bookstack {
+	margin: 10px 30px 10px 100px;
+	padding: 10px;
+}
+.form_sell {
+	border-style: double;
+	border-color: #CCC;
+	padding: 20px;
+	height: auto;
+	margin: 50px;
+
+}
+.quicksearch {
+	width: 400px;
+}
+.advertlisting {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 16px;
+	background: #CF0;
+	margin: 10px;
+	width: auto;
+	float: left;
+	text-align: center;
+	padding: 10px;
+	width: 60%;
+}
+#login {
+	border-style: double;
+	border-color: #E888DE;
+	height: 600px;
+	width: 600px;
+	text-align: center;
+	margin: 100px 100px 100px 380px;
+}
+#redirect_msg {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 24px;
+	color: #333;
+	text-align: center;
+	margin: 30px;
+}
+
+#redirect_submsg {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 18px;
+	color: #E888DE;
+	text-align: center;
+}
+
+#logout_msg {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 24px;
+	color: #E888DE;
+	text-align: center;
+	margin: 50px;
+}
+
+#logout_submsg {
+	font-family: Bitter, Georgia, Times, serif;
+	font-size: 18px;
+	color: #FFF;
+	text-align: center;
+	margin: 20px;
+}
+
+#contact_box {
+	text-align: center;
+}
+
+table { 
+	color: #333;
+	font-family: Bitter, Georgia, Times, serif;
+	width: 60%; 
+	border-collapse: 
+	collapse; border-spacing: 0; 
+}
+
+td, th { 
+	border: 1px solid transparent; /* No more visible border */
+	height: 30px; 
+	transition: all 0.3s;  /* Simple transition for hover effect */
+}
+
+th {
+	background: #DFDFDF;  /* Darken header a bit */
+	font-weight: bold;
+}
+
+td {
+	background: #FAFAFA;
+	text-align: center;
+}
+
+/* Cells in even rows (2,4,6...) are one color */ 
+tr:nth-child(even) td { 
+	background: #F1F1F1; 
+}   
+
+/* Cells in odd rows (1,3,5...) are another (excludes header cells)  */ 
+tr:nth-child(odd) td { 
+	background: #FEFEFE; 
+}  
+
+tr td:hover { 
+	background: #666; 
+	color: #FFF; 
+} /* Hover cell effect! */
